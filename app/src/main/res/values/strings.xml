@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SportMaster_SAX</string>
+    <string name="Page_Fichier">étape 1 : Sélectionner les fichiers</string>
+    <string name="Page_GetSource">étape 2 : Charger les fichiers</string>
+    <string name="Page_Propos">À Propos</string>
+    <string name="Page_Manuel">Manuel</string>
+    <string name="Page_Fonction">étape 3 : Choisir une fonction</string>
+</resources>
