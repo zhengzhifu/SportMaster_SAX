@@ -55,7 +55,7 @@ public class Page_GetSource extends AppCompatActivity {
                         alors on dois utiliser xxx.get(i)-xxx.get(i-1)  et  xxx.get(i+1)-xxx.get(i)
                         Donc on ne peut pas sélectionner 1er élément ni dernière élement
                      */
-                    trajet.clear();
+                    trajet = new Trajet();
                     for(int index = 1 ; index < list.size()-1 ; index ++)
                     {
                         // initialiser les attribut
